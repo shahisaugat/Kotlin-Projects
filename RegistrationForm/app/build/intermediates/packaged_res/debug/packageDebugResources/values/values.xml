@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="orange">#FF5c00</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">Registration Form</string>
+    <string name="buttonText">Create an account</string>
+    <string name="confirmPassword">Confirm Password</string>
+    <string name="emailLabel">Email Address</string>
+    <string name="firstName">First Name</string>
+    <string name="imageDesc">profile_picture</string>
+    <string name="lastName">Last Name</string>
+    <string name="passwordLabel">Password</string>
+    <string name="welcomeText">Create an account</string>
+    <style name="Base.Theme.RegistrationForm" parent="Theme.AppCompat.Light.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.RegistrationForm" parent="Base.Theme.RegistrationForm"/>
+</resources>

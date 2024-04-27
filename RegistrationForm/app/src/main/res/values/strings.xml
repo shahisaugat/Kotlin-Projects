@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Registration Form</string>
+    <string name="emailLabel">Email Address</string>
+    <string name="passwordLabel">Password</string>
+    <string name="confirmPassword">Confirm Password</string>
+    <string name="firstName">First Name</string>
+    <string name="lastName">Last Name</string>
+    <string name="buttonText">Create an account</string>
+    <string name="imageDesc">profile_picture</string>
+    <string name="welcomeText">Create an account</string>
+</resources>
